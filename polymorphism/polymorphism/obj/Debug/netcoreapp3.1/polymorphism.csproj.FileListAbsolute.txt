@@ -1,0 +1,13 @@
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.exe
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.deps.json
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.json
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.runtimeconfig.dev.json
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.dll
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\bin\Debug\netcoreapp3.1\polymorphism.pdb
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.csprojAssemblyReference.cache
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfoInputs.cache
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.AssemblyInfo.cs
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.dll
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.pdb
+C:\Users\denis.ohranovic\Source\Repos\polymorphism\polymorphism\obj\Debug\netcoreapp3.1\polymorphism.genruntimeconfig.cache
